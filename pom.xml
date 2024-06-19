@@ -16,6 +16,7 @@
 
     <modules>
         <module>tablesaw</module>
+        <module>minio</module>
     </modules>
 
     <properties>
